@@ -1,0 +1,22 @@
+os
+sys
+socket
+platform
+subprocess
+threading
+requests
+json
+time
+cv2
+pyautogui
+sounddevice
+numpy
+win32clipboard (Windows only)
+datetime
+PIL
+asyncio
+discord.py
+opencv-python
+pynput
+requests
+pillow
